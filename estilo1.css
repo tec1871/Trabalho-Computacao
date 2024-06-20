@@ -1,0 +1,40 @@
+body {
+  background-color: #ccc0b7;
+}
+
+h1 {
+  color: white;
+}
+
+h2, p, li {
+  color: #57534d
+}
+
+.tit1 {
+  border: 10px solid #2d503f; 
+  background-color: #2d503f; 
+  border-radius: 10px; 
+  text-align: center;
+}
+
+.tit2 {
+  margin-left: 180px; 
+  margin-right: 180px; 
+  border: 5px solid #57534d; 
+  background-color: #57534d; 
+  border-radius: 10px; 
+  text-align: center;
+}
+
+.fot1 {
+  border: 5px solid #57534d; 
+  background-color: #57534d; 
+  border-radius: 2px; 
+  text-align: center;
+}
+
+a {
+  color: #6b6536; 
+  font-size: larger; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
